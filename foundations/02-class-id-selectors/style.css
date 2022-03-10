@@ -1,0 +1,21 @@
+.lightred-bg{
+    background-color: rgba(255, 0, 0, 0.2);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+} 
+
+.lg-txt{
+    font-size: 24px;
+}
+
+.bold-txt{
+    font-weight: bold;
+}
+
+#blue-lg-txt{
+    color: rgb(0, 0, 255);
+    font-size: 30px;
+}
+
+#green-bg{
+    background-color: rgb(0, 255, 0);
+}
